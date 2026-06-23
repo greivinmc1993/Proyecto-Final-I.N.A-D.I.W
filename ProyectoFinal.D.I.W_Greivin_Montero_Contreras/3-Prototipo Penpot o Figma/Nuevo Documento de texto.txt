@@ -2,4 +2,4 @@ proyecto_completo.fig (archivo Figma descargar como .fig) LISTO
 O link_compartido_a_Figma.txt (Link compartido con todos los permisos) LISTO
 Especificaciones_Técnicas.pdf 
 Archivo repositorio_url.txt que contenga el URL de su proyecto versionado en el 
-sistema de manejo de versiones. 
+sistema de manejo de versiones. LISTO
