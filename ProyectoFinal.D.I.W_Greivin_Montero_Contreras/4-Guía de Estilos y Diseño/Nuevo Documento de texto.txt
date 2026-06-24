@@ -1,4 +1,4 @@
-Design_System_Completo.pdf 
-Paleta_de_Colores.png H1 62px H2 48px H3 32px
-Tipografías_e_Iconografía.pdf 
+Design_System_Completo.pdf   LISTO
+Paleta_de_Colores.png H1 62px H2 48px Menú 32px Texto 24px    LISTO
+Tipografías_e_Iconografía.pdf   LISTO
 Componentes_Documentados.pdf 
